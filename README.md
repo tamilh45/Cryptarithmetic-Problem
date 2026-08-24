@@ -3,6 +3,7 @@
 <h3>Register Number: 212223110058 </h3>
 <h3>Date: 07/08/2026 </h3>
 <H3>Aim:</H3>
+
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
 </p>
